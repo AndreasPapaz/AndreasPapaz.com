@@ -2885,6 +2885,12 @@
 			margin-bottom: 5%;
 		}
 
+		.inner p {
+			display: block;
+			font-weight: 300;
+			color: inherit;
+		}
+
 			#header .logo > * {
 				display: inline-block;
 				vertical-align: middle;
